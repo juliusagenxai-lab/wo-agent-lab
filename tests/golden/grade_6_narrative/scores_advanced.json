@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_advanced.txt",
+  "grade": 6,
+  "genre": "narrative",
+  "standard": "W.6.3",
+  "performance_level": "Advanced",
+  "total": 23,
+  "criteria": [
+    {"criterion": "Plot Development",     "level": 4, "notes": "Creative plot with mystery, rising tension, and compelling ending"},
+    {"criterion": "Characters",           "level": 4, "notes": "Narrator and girl both have clear voice and motivation"},
+    {"criterion": "Setting",              "level": 4, "notes": "Vivid amber world with specific sensory detail (cinnamon, stained glass)"},
+    {"criterion": "Organization",         "level": 4, "notes": "Perfect pacing; short paragraphs build suspense effectively"},
+    {"criterion": "Descriptive Language", "level": 4, "notes": "Strong word choices throughout; dialogue is natural"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors; strong overall command"}
+  ]
+}

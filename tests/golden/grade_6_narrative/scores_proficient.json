@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_proficient.txt",
+  "grade": 6,
+  "genre": "narrative",
+  "standard": "W.6.3",
+  "performance_level": "Proficient",
+  "total": 18,
+  "criteria": [
+    {"criterion": "Plot Development",     "level": 3, "notes": "Clear sequence with problem and resolution"},
+    {"criterion": "Characters",           "level": 3, "notes": "Characters identifiable; talking creature adds interest"},
+    {"criterion": "Setting",              "level": 3, "notes": "Setting clearly described (purple sky, two moons)"},
+    {"criterion": "Organization",         "level": 3, "notes": "Logical beginning, middle, end"},
+    {"criterion": "Descriptive Language", "level": 3, "notes": "Appropriate details; some vivid description"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors throughout"}
+  ]
+}

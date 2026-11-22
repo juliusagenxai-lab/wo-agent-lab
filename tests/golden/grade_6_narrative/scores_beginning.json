@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_beginning.txt",
+  "grade": 6,
+  "genre": "narrative",
+  "standard": "W.6.3",
+  "performance_level": "Beginning",
+  "total": 7,
+  "criteria": [
+    {"criterion": "Plot Development",     "level": 1, "notes": "No discernible plot structure"},
+    {"criterion": "Characters",           "level": 1, "notes": "No characters present"},
+    {"criterion": "Setting",              "level": 2, "notes": "Basement mentioned; no detail"},
+    {"criterion": "Organization",         "level": 2, "notes": "Some sequence; very minimal"},
+    {"criterion": "Descriptive Language", "level": 1, "notes": "No descriptive language; 'weird things' and 'stuff'"},
+    {"criterion": "Language Conventions", "level": 2, "notes": "Frequent errors"}
+  ]
+}

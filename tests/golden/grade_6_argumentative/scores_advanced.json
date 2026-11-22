@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_advanced.txt",
+  "grade": 6,
+  "genre": "argumentative",
+  "standard": "W.6.1",
+  "performance_level": "Advanced",
+  "total": 22,
+  "criteria": [
+    {"criterion": "Claim",                "level": 4, "notes": "Precise, compelling claim in opening paragraph"},
+    {"criterion": "Evidence",             "level": 4, "notes": "Cites London School of Economics study with specific statistic"},
+    {"criterion": "Reasoning",            "level": 4, "notes": "Clearly connects each piece of evidence to the claim"},
+    {"criterion": "Organization",         "level": 4, "notes": "Strong intro, body, counterargument, conclusion"},
+    {"criterion": "Counterargument",      "level": 3, "notes": "Addresses opposing view but response could be stronger"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors; does not affect meaning"}
+  ]
+}

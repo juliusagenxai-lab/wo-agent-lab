@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_advanced.txt",
+  "grade": 6,
+  "genre": "informative",
+  "standard": "W.6.2",
+  "performance_level": "Advanced",
+  "total": 23,
+  "criteria": [
+    {"criterion": "Topic Introduction",   "level": 4, "notes": "Engaging opening with clear topic and scope"},
+    {"criterion": "Development of Ideas", "level": 4, "notes": "Thorough with personalized learning and access themes"},
+    {"criterion": "Facts and Examples",   "level": 4, "notes": "Specific apps named; primary source example for Civil Rights"},
+    {"criterion": "Organization",         "level": 4, "notes": "Cohesive structure with effective paragraph transitions"},
+    {"criterion": "Conclusion",           "level": 4, "notes": "Strong conclusion with nuanced final insight"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors; overall strong command"}
+  ]
+}

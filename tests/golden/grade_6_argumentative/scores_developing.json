@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_developing.txt",
+  "grade": 6,
+  "genre": "argumentative",
+  "standard": "W.6.1",
+  "performance_level": "Developing",
+  "total": 13,
+  "criteria": [
+    {"criterion": "Claim",                "level": 2, "notes": "Claim present but lacks precision"},
+    {"criterion": "Evidence",             "level": 2, "notes": "General statements; no specific evidence"},
+    {"criterion": "Reasoning",            "level": 2, "notes": "Some connection but inconsistent"},
+    {"criterion": "Organization",         "level": 2, "notes": "Partial structure; transitions weak"},
+    {"criterion": "Counterargument",      "level": 2, "notes": "Very briefly mentions opposing view without response"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors; meaning is clear"}
+  ]
+}

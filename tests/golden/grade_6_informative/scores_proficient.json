@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_proficient.txt",
+  "grade": 6,
+  "genre": "informative",
+  "standard": "W.6.2",
+  "performance_level": "Proficient",
+  "total": 18,
+  "criteria": [
+    {"criterion": "Topic Introduction",   "level": 3, "notes": "Clear topic introduction"},
+    {"criterion": "Development of Ideas", "level": 3, "notes": "Adequate development across three ideas"},
+    {"criterion": "Facts and Examples",   "level": 3, "notes": "Relevant examples; not highly specific"},
+    {"criterion": "Organization",         "level": 3, "notes": "Logical structure with transitions"},
+    {"criterion": "Conclusion",           "level": 3, "notes": "Appropriate conclusion"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors throughout"}
+  ]
+}

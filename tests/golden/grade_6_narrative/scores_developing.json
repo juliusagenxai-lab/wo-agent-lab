@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_developing.txt",
+  "grade": 6,
+  "genre": "narrative",
+  "standard": "W.6.3",
+  "performance_level": "Developing",
+  "total": 16,
+  "criteria": [
+    {"criterion": "Plot Development",     "level": 3, "notes": "Plot present with tension (door disappears before dark)"},
+    {"criterion": "Characters",           "level": 2, "notes": "Eli introduced but underdeveloped"},
+    {"criterion": "Setting",              "level": 3, "notes": "Meadow and village described; adequate detail"},
+    {"criterion": "Organization",         "level": 3, "notes": "Logical sequence; transitions are functional"},
+    {"criterion": "Descriptive Language", "level": 2, "notes": "Some descriptive details but limited sensory language"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors; punctuation and grammar are largely correct with no significant impact on readability"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_proficient.txt",
+  "grade": 6,
+  "genre": "argumentative",
+  "standard": "W.6.1",
+  "performance_level": "Proficient",
+  "total": 18,
+  "criteria": [
+    {"criterion": "Claim",                "level": 3, "notes": "Clear claim stated in first paragraph"},
+    {"criterion": "Evidence",             "level": 3, "notes": "References research but no specific citation"},
+    {"criterion": "Reasoning",            "level": 3, "notes": "Adequate logical connection between evidence and claim"},
+    {"criterion": "Organization",         "level": 3, "notes": "Logical structure; introduction and conclusion present"},
+    {"criterion": "Counterargument",      "level": 3, "notes": "Addresses emergency concern and provides solution"},
+    {"criterion": "Language Conventions", "level": 3, "notes": "Minor errors throughout; meaning is clear"}
+  ]
+}

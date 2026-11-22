@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_beginning.txt",
+  "grade": 6,
+  "genre": "informative",
+  "standard": "W.6.2",
+  "performance_level": "Beginning",
+  "total": 7,
+  "criteria": [
+    {"criterion": "Topic Introduction",   "level": 1, "notes": "No clear introduction"},
+    {"criterion": "Development of Ideas", "level": 1, "notes": "No development; list of observations"},
+    {"criterion": "Facts and Examples",   "level": 1, "notes": "No meaningful supporting details"},
+    {"criterion": "Organization",         "level": 2, "notes": "Some attempt at sequencing"},
+    {"criterion": "Conclusion",           "level": 1, "notes": "No conclusion"},
+    {"criterion": "Language Conventions", "level": 2, "notes": "Frequent errors"}
+  ]
+}

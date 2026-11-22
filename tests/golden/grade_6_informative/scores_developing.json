@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_developing.txt",
+  "grade": 6,
+  "genre": "informative",
+  "standard": "W.6.2",
+  "performance_level": "Developing",
+  "total": 14,
+  "criteria": [
+    {"criterion": "Topic Introduction",   "level": 3, "notes": "Introduces topic but lacks engagement"},
+    {"criterion": "Development of Ideas", "level": 2, "notes": "Two ideas present but not fully developed"},
+    {"criterion": "Facts and Examples",   "level": 2, "notes": "General statements; no specific facts"},
+    {"criterion": "Organization",         "level": 3, "notes": "Logical flow but transitions are basic"},
+    {"criterion": "Conclusion",           "level": 2, "notes": "Weak conclusion; repetitive"},
+    {"criterion": "Language Conventions", "level": 2, "notes": "Frequent errors; some affect meaning"}
+  ]
+}

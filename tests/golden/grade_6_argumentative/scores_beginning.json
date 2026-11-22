@@ -1,0 +1,16 @@
+{
+  "essay_file": "essay_beginning.txt",
+  "grade": 6,
+  "genre": "argumentative",
+  "standard": "W.6.1",
+  "performance_level": "Beginning",
+  "total": 7,
+  "criteria": [
+    {"criterion": "Claim",                "level": 1, "notes": "No identifiable claim; opinion stated without structure"},
+    {"criterion": "Evidence",             "level": 1, "notes": "No evidence provided"},
+    {"criterion": "Reasoning",            "level": 1, "notes": "No reasoning connecting evidence to claim"},
+    {"criterion": "Organization",         "level": 2, "notes": "Some attempt at sequencing but disorganized"},
+    {"criterion": "Counterargument",      "level": 1, "notes": "No opposing view acknowledged"},
+    {"criterion": "Language Conventions", "level": 2, "notes": "Frequent errors; some affect meaning"}
+  ]
+}
